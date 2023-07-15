@@ -1,17 +1,17 @@
-config:
-package where reading of configuration are placed
+**config:**
+Package where reading of configuration is placed.
 
-controllers:
-packages for the controller layer
+**controllers:**
+Packages for the controller layer.
 
-models:
-packages which defines the models which is used in all other packages
+**models:**
+Packages which define the models used in all other packages.
 
-repositories:
-implementation of the repository layer
+**repositories:**
+Implementation of the repository layer.
 
-server:
-package which initialize the http and database servers
+**server:**
+Package which initializes the HTTP and database servers.
 
-service:
-implementation of the service layer
+**service:**
+Implementation of the service layer.
